@@ -3,15 +3,24 @@
 
 👋 Hey, I'm Taha 
    - A student.
-   - Currently learning - Web Development, C++.
-   - Interested in Game development.
-   - Football enthusiast.
-   
-Contact me through:
-   - tahahameed29@gmail.com
-    
-## Profile Stats
+   - Currently learning Javascript.
+   - Interested in Front + Backend web dev.
+
+# Skills 👨‍💻
+
+## Development  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase" />
+  </a>
+</p>
+
+## Profile Stats 📉
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHameed23&show_icons=true)](https://github.com/TahaHameed23/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHameed23&layout=compact)](https://github.com/TahaHameed23)
+
+Contact me through:
+   - tahahameed29@gmail.com
