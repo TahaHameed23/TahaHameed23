@@ -2,8 +2,6 @@
 [![Twitter: ](https://img.shields.io/twitter/follow/tahahameed_?style=social)](https://twitter.com/tahahameed_)
 
 
-![](https://komarev.com/ghpvc/?username=TahaHameed23)
-
 ## 👋 Hey, I'm Taha 
    - A student.
    - Currently learning Javascript.
