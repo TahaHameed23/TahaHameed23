@@ -32,6 +32,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHameed23&layout=compact)](https://github.com/TahaHameed23)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=TahaHameed23&theme=dark&hide_border=false)<br/>
+
 
 ### Contact me:
    - tahahameed29@gmail.com
