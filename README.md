@@ -5,7 +5,7 @@
 ## 👋 Hey, I'm Taha 
    - A student.
    - Currently learning Javascript.
-   - Interested in Front + Backend web dev.
+   - Interested in Backend web dev.
 
 
 ## Skills 👨‍💻
