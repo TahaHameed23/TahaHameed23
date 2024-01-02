@@ -4,8 +4,8 @@
 
 ## 👋 Hey, I'm Taha 
    - A student.
-   - Currently learning Javascript.
-   - Interested in Backend web dev.
+   - Interested in Backend Dev
+   - Currently learning NodeJs,NGINX
 
 
 ## Skills 👨‍💻
