@@ -14,10 +14,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase,mysql,nodejs,expressjs,postman" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase,mysql,nodejs,expressjs" />
   </a>
 </p>
 
+### Tools 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,vim,git" />
+  </a>
+</p>
 
 ### Programming 
 <p align="center">
