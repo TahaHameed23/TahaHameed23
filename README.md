@@ -38,7 +38,7 @@
 
 [![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHameed23&show_icons=true&theme=dark&rank_icon=github)](https://github.com/TahaHameed23)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHameed23&layout=compact&theme=dark&rank_icon=github)](https://github.com/TahaHameed23)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHameed23&layout=compact&theme=dark&rank_icon=github)](https://github.com/TahaHameed23)-->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TahaHameed23&theme=dark&hide_border=false)<br/>
 
