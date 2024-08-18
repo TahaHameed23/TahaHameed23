@@ -1,54 +1,15 @@
-[![Linkedin: Mohd Taha Hameed](https://img.shields.io/badge/-Mohd%20Taha%20Hameed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-taha-hameed-a89443200/)](https://www.linkedin.com/in/mohd-taha-hameed-a89443200/)
-[![Twitter: ](https://img.shields.io/twitter/follow/tahahameed_?style=social)](https://twitter.com/tahahameed_)
-
-
 ## 👋 Hey, I'm Taha 
-   - A student.
-   - Interested in Backend Dev
-   - Currently learning NodeJs,Go
+
+I'm a student from India pursuing undergraduate degree in computer science. I currently have experience with web technologies (full stack), primarily focused on backend development.
+
+I enjoy working in the cloud ☁️, and I've developed and managed services and websites on a variety of cloud platforms.
+
+I also love to work, develop and contribute in open source communities.
 
 
-## Skills 👨‍💻
-
-### Development  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,expressjs" />
-  </a>
-</p>
-
-### Tools 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,vim,git" />
-  </a>
-</p>
-
-### Programming 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python" />
-  </a>
-</p>
+### Find me on:
+- [Portfolio](https://tahahameed.vercel.app)
+- [Twitter](https://twitter.com/tahahameed_)
+- [LinkedIn](https://www.linkedin.com/in/tahahameed/)
 
 
-## Profile Stats 📈
-
-[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHameed23&show_icons=true&theme=dark&rank_icon=github)](https://github.com/TahaHameed23)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHameed23&layout=compact&theme=dark&rank_icon=github)](https://github.com/TahaHameed23)-->
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=TahaHameed23&theme=dark&hide_border=false)<br/>
-
-[![An image of @tahahameed23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tahahameed23)](https://holopin.io/@tahahameed23)
-
-
-![Taha's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=TahaHameed23&theme=dark)
-
-### Contact:
-   - tahahameed29@gmail.com
