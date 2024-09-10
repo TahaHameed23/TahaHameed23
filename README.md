@@ -8,7 +8,7 @@ I also love to work, develop and contribute in open source communities.
 
 
 ### Find me on:
-- [Portfolio](https://tahahameed.vercel.app)
+- [Portfolio](https://tahahameed.tech)
 - [Twitter](https://twitter.com/tahahameed_)
 - [LinkedIn](https://www.linkedin.com/in/tahahameed/)
 
